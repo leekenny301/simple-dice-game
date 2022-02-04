@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ylhke\source\repos\simple_dice_game\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  simple_dice_game.vcxproj -> C:\Users\ylhke\source\repos\simple_dice_game\Debug\simple_dice_game.exe
